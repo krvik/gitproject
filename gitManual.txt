@@ -1,0 +1,14 @@
+Helo, 
+This is git Manual
+
+
+1. Git software is alrready in ubuntu 22.04
+2. Created repo called gitproject.
+3. cd gitproject
+4. git init
+	it will create all necessary files
+
+sorry, not using text editor becasuse
+here we can't add output screenshot.
+
+Refer gitmanual.docs file.
